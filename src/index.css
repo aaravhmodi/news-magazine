@@ -1,0 +1,7 @@
+.container {
+  padding-top: 80px; /* Adjust based on header height */
+}
+
+.navbar-nav .nav-link {
+  cursor: pointer;
+}
